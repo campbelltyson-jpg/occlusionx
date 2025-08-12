@@ -1,4 +1,3 @@
-
 import os, tempfile, numpy as np, streamlit as st, imageio
 from PIL import Image, ImageFilter, ImageDraw
 from streamlit_drawable_canvas import st_canvas
@@ -167,3 +166,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
